@@ -1,2 +1,2 @@
 # infographic
-[infographic](https://jamesscott147.github.io/infographic/infogrpahic.pdf)
+[infographic](https://jamesscott147.github.io/infographic/infographic.pdf)
